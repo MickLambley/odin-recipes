@@ -1,1 +1,2 @@
 # odin-recipes
+This website was created as part of the Odin Project to learn the basics of the html language. It uses some simple links between pages with headings, images and lists on the pages. While the pages are recipes, you're probably better off looking somewhere else for something to have for dinner.
